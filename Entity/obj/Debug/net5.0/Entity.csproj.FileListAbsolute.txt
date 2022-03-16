@@ -1,0 +1,60 @@
+C:\Users\serkan\source\repos\EfAppCore\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\serkan\source\repos\EfAppCore\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\EfAppCore\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\EfAppCore\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\serkan\source\repos\EfAppCore\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\serkan\source\repos\EfAppCore\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache

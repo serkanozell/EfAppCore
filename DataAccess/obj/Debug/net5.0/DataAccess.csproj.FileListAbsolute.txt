@@ -1,0 +1,70 @@
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\bin\Debug\net5.0\Core.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\bin\Debug\net5.0\Core.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\DataAccess\obj\Debug\net5.0\DataAccess.pdb

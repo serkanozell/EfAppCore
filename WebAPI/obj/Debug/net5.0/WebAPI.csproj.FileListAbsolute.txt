@@ -1,0 +1,252 @@
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\WebAPI.exe
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\Business.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\Core.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\Business.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\Core.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\WebAPI.exe
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\System.CodeDom.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\Business.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\Core.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\Business.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\Core.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+C:\Users\serkan\source\repos\EfAppCore - unitofworkdeneme-webAPI\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\WebAPI.exe
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Business.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Core.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Business.pdb
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Core.pdb
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\serkan\source\repos\EfAppCore\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\appsettings.json
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\WebAPI.exe
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\WebAPI.deps.json
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.json
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\WebAPI.runtimeconfig.dev.json
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\ref\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\WebAPI.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Humanizer.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Business.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Core.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\DataAccess.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Entity.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Business.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Core.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Entity.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.Manifest.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\staticwebassets\WebAPI.StaticWebAssets.xml
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CopyComplete
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.pdb
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Autofac.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Autofac.Extras.DynamicProxy.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Castle.Core.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\FluentValidation.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\log4net.config
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\log4net.dll
+C:\Users\serkan\source\repos\EfAppCore - AutoMapper\WebAPI\bin\Debug\net5.0\MicroKnights.Log4NetAdoNetAppender.dll
