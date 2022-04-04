@@ -6,23 +6,34 @@ using Core.AOP.Autofac.Caching;
 using Core.AOP.Autofac.Logging;
 using Core.AOP.Autofac.Transaction;
 using Core.AOP.Autofac.Validation;
+using Core.CrossCuttingConcern.Caching;
+using Core.CrossCuttingConcern.Caching.Redis;
 using Core.CrossCuttingConcern.Logging.Log4Net.Loggers;
 using Core.Results;
 using DataAccess.Concrete;
 using DataAccess.UOW;
 using Entity.Entities;
 using Entity.ViewModel;
+using Newtonsoft.Json;
+using StackExchange.Redis.Extensions.Core.Abstractions;
+using System;
 using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace Business.Concrete
 {
     public class ProductManager : IProductService
     {
         IUnitOfWork _unitOfWork;
+        ICacheManager _cacheManager;
+        IRedisCacheClient _redisCacheClient;
+        private readonly static string key = "GetAllProducts";
 
-        public ProductManager(IUnitOfWork unitOfWork)
+        public ProductManager(IUnitOfWork unitOfWork/*, ICacheManager cacheManager, IRedisCacheClient redisCacheClient*/)
         {
             _unitOfWork = unitOfWork;
+            //_cacheManager = cacheManager;
+            //_redisCacheClient = redisCacheClient;
         }
 
         //[SecuredOperation("product.add,admin")]
@@ -32,6 +43,7 @@ namespace Business.Concrete
         {
             _unitOfWork.Products.Add(product);
             _unitOfWork.SaveChanges();
+            _redisCacheClient.Db0.Database.StringGetDelete(key);
             return new SuccessResult(Message.Added);
         }
 
@@ -39,15 +51,27 @@ namespace Business.Concrete
         {
             _unitOfWork.Products.SoftDelete(product);
             _unitOfWork.SaveChanges();
+            _redisCacheClient.Db0.Database.StringGetDelete(key);
             return new SuccessResult(Message.Deleted);
         }
 
-        [CacheAspect]
-
+        //[CacheAspect]
         public IDataResult<List<Product>> GetAllProducts()
         {
+            //if (_cacheManager.IsAdd(key))
+            //{
+            //    var json = _redisCacheClient.Db0.Database.StringGet(key);
+            //    var end = JsonConvert.DeserializeObject<List<Product>>(json);
+            //    var sonuc = new SuccessDataResult<List<Product>>(end);
+            //    return sonuc;
+            //}
+
             //var result = new List<Product>(_unitOfWork.Products.GetAll());
-            return new SuccessDataResult<List<Product>>(_unitOfWork.Products.GetAll(), Message.ProductsListed);
+            //var jsonData = _redisCacheClient.Db0.AddAsync
+            //    (key, _unitOfWork.Products.GetAll(), DateTime.Now.AddMinutes(30));
+            //_redisCacheClient.Serializer.Serialize(jsonData).ToString();
+            var result = new SuccessDataResult<List<Product>>(_unitOfWork.Products.GetAll());
+            return result;
         }
 
         [LogAspect(typeof(FileLogger))]
@@ -68,6 +92,7 @@ namespace Business.Concrete
         {
             _unitOfWork.Products.Update(product);
             _unitOfWork.SaveChanges();
+            _redisCacheClient.Db0.Database.StringGetDelete(key);
             return new SuccessResult(Message.Updated);
         }
 

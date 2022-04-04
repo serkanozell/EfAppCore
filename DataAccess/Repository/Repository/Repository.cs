@@ -56,11 +56,15 @@ namespace DataAccess.Repository.Repository
             return _context.Set<TEntity>().SingleOrDefault(condition);
         }
 
-        public List<TEntity> GetAll(Expression<Func<TEntity, bool>> condition = null)
+        public  List<TEntity> GetAll(Expression<Func<TEntity, bool>> condition = null)
         {
+            //if (condition==null)
+            //{
+            //    return await _context.Set<TEntity>().ToListAsync();
+            //}
             return condition == null
-                ? _context.Set<TEntity>().ToList()
-                : _context.Set<TEntity>().Where(condition).ToList();
+                ?  _context.Set<TEntity>().ToList()
+                :  _context.Set<TEntity>().Where(condition).ToList();
             //return _table.Where(condition).ToList();
         }
 

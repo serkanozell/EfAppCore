@@ -1,5 +1,4 @@
-﻿
-using Core.Extensions;
+﻿using Core.Extensions;
 using Core.Security.Encryption;
 using Entity.Entities;
 using Microsoft.Extensions.Configuration;

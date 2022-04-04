@@ -58,3 +58,18 @@ C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\ref\
 C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\Entity.pdb
 C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache
 C:\Users\serkan\source\repos\EfAppCore - AutoMapper\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\bin\Debug\net5.0\Entity.deps.json
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\bin\Debug\net5.0\Entity.runtimeconfig.json
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\bin\Debug\net5.0\Entity.runtimeconfig.dev.json
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\bin\Debug\net5.0\Entity.dll
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\bin\Debug\net5.0\ref\Entity.dll
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\bin\Debug\net5.0\Entity.pdb
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\obj\Debug\net5.0\Entity.csproj.AssemblyReference.cache
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\obj\Debug\net5.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\obj\Debug\net5.0\Entity.AssemblyInfoInputs.cache
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\obj\Debug\net5.0\Entity.AssemblyInfo.cs
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\obj\Debug\net5.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\obj\Debug\net5.0\Entity.dll
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\obj\Debug\net5.0\ref\Entity.dll
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\obj\Debug\net5.0\Entity.pdb
+C:\Users\serka\source\repos\serkanozell\EfAppCore\Entity\obj\Debug\net5.0\Entity.genruntimeconfig.cache

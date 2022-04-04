@@ -1,7 +1,14 @@
 ﻿using AutoMapper;
 using Business.Abstract;
+using Core.CrossCuttingConcern.Caching;
 using Entity.Entities;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Caching.Distributed;
+using Microsoft.Extensions.Logging;
+using Newtonsoft.Json;
+using StackExchange.Redis.Extensions.Core.Abstractions;
+using System;
+using System.Threading.Tasks;
 using WebAPI.DTOs;
 
 namespace WebAPI.Controllers
@@ -12,14 +19,21 @@ namespace WebAPI.Controllers
     {
         IProductService _productService;
         IMapper _mapper;
+        IRedisCacheClient _redisCacheClient;
+        ILogger<ProductController> _logger;
         //ICacheManager _memoryCache;
-        public ProductController(IProductService productService, IMapper mapper/*, ICacheManager memoryCache*/)
+        public ProductController(IProductService productService, IMapper mapper,
+            IRedisCacheClient redisCacheClient/* ICacheManager memoryCache*/, ILogger<ProductController> logger)
         {
             _productService = productService;
             _mapper = mapper;
             //_memoryCache = memoryCache;
+            _redisCacheClient = redisCacheClient;
+            _logger = logger;
+            //_memoryCache = memoryCache;
         }
-        [HttpPost]
+
+        [HttpPost("add")]
         public IActionResult Add([FromBody] ProductDto productDto)
         {
             var result = _productService.AddProduct(_mapper.Map<Product>(productDto));
@@ -67,11 +81,14 @@ namespace WebAPI.Controllers
             //return Ok(productList);
             #endregion
             var result = _productService.GetAllProducts();
-            if (result.Success)
-            {
-                return Ok(result.Data);
-            }
-            return BadRequest(result.Message);
+            var mongoDbLog = JsonConvert.SerializeObject(result.Data);
+            _logger.LogInformation(mongoDbLog);
+            return Ok(result);
+            //if (result.Success)
+            //{
+            //    return Ok(result.Data);
+            //}
+            //return BadRequest(result.Message);
         }
         [HttpGet("getproductsbycategoryid")]
         public IActionResult GetProductsByCategoryId(int id)

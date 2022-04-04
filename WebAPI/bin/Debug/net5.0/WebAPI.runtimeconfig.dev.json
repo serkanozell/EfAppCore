@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\serkan\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\serkan\\.nuget\\packages",
+      "C:\\Users\\serka\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\serka\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ]
   }

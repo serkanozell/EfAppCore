@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Business\\Business.csproj": {
+    "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\serkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Business\\obj\\",
+        "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,14 +32,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Core\\Core.csproj"
+              "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Core\\Core.csproj"
               },
-              "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Entity\\Entity.csproj"
+              "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Entity\\Entity.csproj"
               }
             }
           }
@@ -98,20 +98,20 @@
         }
       }
     },
-    "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Core\\Core.csproj": {
+    "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\serkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Core\\obj\\",
+        "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -126,8 +126,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Entity\\Entity.csproj"
+              "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\DataAccess\\DataAccess.csproj"
+              },
+              "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Entity\\Entity.csproj"
               }
             }
           }
@@ -178,6 +181,14 @@
               "target": "Package",
               "version": "[5.0.0, )"
             },
+            "StackExchange.Redis.Extensions.Core": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "StackExchange.Redis.Extensions.Newtonsoft": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
             "log4net": {
               "target": "Package",
               "version": "[2.0.14, )"
@@ -202,20 +213,20 @@
         }
       }
     },
-    "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\serkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -230,8 +241,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Entity\\Entity.csproj": {
-                "projectPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Entity\\Entity.csproj"
+              "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Entity\\Entity.csproj"
               }
             }
           }
@@ -270,20 +281,20 @@
         }
       }
     },
-    "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Entity\\Entity.csproj": {
+    "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Entity\\Entity.csproj",
+        "projectUniqueName": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Entity\\Entity.csproj",
         "projectName": "Entity",
-        "projectPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Entity\\Entity.csproj",
-        "packagesPath": "C:\\Users\\serkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Entity\\obj\\",
+        "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Entity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -344,20 +355,20 @@
         }
       }
     },
-    "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\serkan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\serka\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\serkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\serka\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -372,8 +383,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\serkan\\source\\repos\\EfAppCore - AutoMapper\\Business\\Business.csproj"
+              "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\serka\\source\\repos\\serkanozell\\EfAppCore\\Business\\Business.csproj"
               }
             }
           }
@@ -413,6 +424,46 @@
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
               "version": "[5.0.14, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.4, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.10.0, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "Serilog.Sinks.MongoDB": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "StackExchange.Redis.Extensions.Core": {
+              "target": "Package",
+              "version": "[7.2.1, )"
+            },
+            "StackExchange.Redis.Extensions.Newtonsoft": {
+              "target": "Package",
+              "version": "[7.2.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

@@ -14,6 +14,13 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using StackExchange.Redis.Extensions.Core;
+using StackExchange.Redis.Extensions.Core.Abstractions;
+using StackExchange.Redis.Extensions.Core.Implementations;
+using StackExchange.Redis.Extensions.Newtonsoft;
+using StackExchange.Redis.Extensions.Core.Configuration;
+using Core.CrossCuttingConcern.Caching;
+using Core.CrossCuttingConcern.Caching.Redis;
 
 namespace WebAPI
 {
@@ -40,7 +47,17 @@ namespace WebAPI
             });
 
             services.AddAutoMapper(typeof(Startup));
-            services.AddDbContext<EfAppContext>(options => options.UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=EfAppCoreDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"));
+            services.AddDbContext<EfAppContext>(options =>
+            options.UseSqlServer(@"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=EfAppCoreDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False"));
+
+            var redisConfiguration = Configuration.GetSection("Redis").Get<RedisConfiguration>();
+
+
+
+
+            //services.AddStackExchangeRedisCache(options =>
+            //options.Configuration = Configuration.GetValue<string>("CacheSettings:ConnectionString"));
+            //services.AddSingleton<IRedisCacheClient, RedisCacheClient>();
             //services.AddTransient(typeof(IUnitOfWork), typeof(UnitOfWork));
             //services.AddTransient(typeof(IProductService), typeof(ProductManager));
             //services.AddTransient(typeof(ICategoryService), typeof(CategoryManager));

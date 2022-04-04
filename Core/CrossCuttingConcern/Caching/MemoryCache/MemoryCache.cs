@@ -21,6 +21,11 @@ namespace Core.CrossCuttingConcern.Caching.MemoryCache
             _memoryCache.Set(key, data, TimeSpan.FromMinutes(duration));
         }
 
+        //public void Add<T>(string key, T data, int duration)
+        //{
+        //    throw new NotImplementedException();
+        //}
+
         public T Get<T>(string key)
         {
             return _memoryCache.Get<T>(key);

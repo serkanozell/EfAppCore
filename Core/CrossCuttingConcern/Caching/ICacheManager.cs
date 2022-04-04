@@ -12,6 +12,7 @@ namespace Core.CrossCuttingConcern.Caching
         T Get<T>(string key);
         object Get(string key);
         void Add(string key, object data, int duration);
+        //void Add<T>(string key, T data, int duration);
         bool IsAdd(string key);
         void Remove(string key);
     }

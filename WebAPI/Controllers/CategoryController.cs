@@ -21,8 +21,8 @@ namespace WebAPI.Controllers
         [HttpPost("add")]
         public IActionResult Add([FromBody] CategoryDto category)
         {
-            _categoryService.AddCategory(_mapper.Map<Category>(category));
-            return Ok();
+            var result = _categoryService.AddCategory(_mapper.Map<Category>(category));
+            return Ok(result);
         }
         [HttpPost("update")]
         public IActionResult Update([FromBody] CategoryUpdateDto categoryUpdateDto)
